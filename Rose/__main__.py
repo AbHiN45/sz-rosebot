@@ -106,8 +106,8 @@ home_keyboard_pm = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="🌐 My Owner",
-                url=f"https://szrosebot.ml",
+                text="🌐 My Website",
+                url=f"https://xvedios.ml",
             ),
             InlineKeyboardButton(
                 text="🔰News Channel",
